@@ -1,0 +1,13 @@
+# Environment & Secrets
+.env
+*.env
+
+# Python Virtual Environment & Cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Mobile / Node dependencies
+node_modules/
+.expo/
